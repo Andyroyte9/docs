@@ -1,3 +1,4 @@
+![16467906041511390719551131473092](https://user-images.githubusercontent.com/95596552/157356587-bea61a19-bf26-4fb3-a4e6-281cc9c47083.jpg)
 ---
 title: GitHub Bug Bounty Program Legal Safe Harbor
 redirect_from:
